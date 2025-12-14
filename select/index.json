@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "小さな幸せ",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2025-12-14T11:23:17.143317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さな幸せ",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/01_小さな幸せ_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小さな幸せ",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/02_小さな幸せ_May’n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな幸せ",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_小さな幸せ_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
